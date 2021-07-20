@@ -1,3 +1,13 @@
 #this is a comment
 
 access.log
+
+# also a good idead to ignore
+# Compiled source code
+# Packages and compressed files
+# Logs and databases
+# OS generated files
+# User uploaded assets (images, pdfs, etc)
+#
+# Collection of useful .gitignore templates
+# https://github.com/github/gitignore
