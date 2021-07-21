@@ -11,3 +11,4 @@ access.log
 #
 # Collection of useful .gitignore templates
 # https://github.com/github/gitignore
+db_config.txt
